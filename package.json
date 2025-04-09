@@ -1,10 +1,10 @@
 {
 	"name": "manage-wifi-nextjs",
-	"version": "1.0",
+	"version": "1.0.0",
 	"description": "Turn your Wi-Fi on and off, Nextjs version of manage-wifi",
 	"license": "Atomprod",
 	"repository": "kaifCoding/manage-wifi-nextjs",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"funding": "https://github.com/sponsors/KaifCoding",
 	"author": {
 		"name": "Mohammad Kaif",
 		"email": "officialkaifansari@gmail.com",
