@@ -1,4 +1,4 @@
-# manage-wifi-nextjs
+# wifi-nextjs
 
 A cross-platform utility for controlling Wi-Fi (turning on/off, checking status) in Next.js APIs using Node.js, PowerShell (Windows), and networksetup (macOS).
 
@@ -13,18 +13,18 @@ A cross-platform utility for controlling Wi-Fi (turning on/off, checking status)
 ## 📦 Installation
 
 ```bash
-npm install manage-wifi-nextjs
+npm install wifi-nextjs
 ```
 
 ```bash
-yarn add manage-wifi-nextjs
+yarn add wifi-nextjs
 ```
 ## 🛠️ Usage
 
 ### 1. Import the module
 
 ```js
-import wifi from "manage-wifi-nextjs";
+import wifi from "wifi-nextjs";
 ```
 
 ### 2. Use it inside your API routes
