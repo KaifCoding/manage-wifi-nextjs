@@ -1,0 +1,60 @@
+{
+	"name": "manage-wifi-nextjs",
+	"version": "1.0",
+	"description": "Turn your Wi-Fi on and off, Nextjs version of manage-wifi",
+	"license": "Atomprod",
+	"repository": "kaifCoding/manage-wifi-nextjs",
+	"funding": "https://github.com/sponsors/sindresorhus",
+	"author": {
+		"name": "Mohammad Kaif",
+		"email": "officialkaifansari@gmail.com",
+		"url": "https://moahmmadkaif.in"
+	},
+	"type": "module",
+	"exports": "./index.js",
+	"engines": {
+		"node": ">=12"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"wifi",
+		"wi-fi",
+		"internet",
+		"wireless",
+		"nextjs",
+		"react-js",
+		"manage",
+		"control",
+		"network",
+		"device",
+		"adapter",
+		"en0",
+		"en1",
+		"restart",
+		"toggle",
+		"enable",
+		"disable",
+		"on",
+		"off"
+	],
+	"dependencies": {
+		"delay": "^5.0.0",
+		"execa": "^5.0.0",
+		"git": "^0.1.5",
+		"p-memoize": "^4.0.1"
+	},
+	"devDependencies": {
+		"ava": "^3.15.0",
+		"tsd": "^0.14.0",
+		"xo": "^0.37.1"
+	},
+	"ava": {
+		"timeout": "30s"
+	}
+}
